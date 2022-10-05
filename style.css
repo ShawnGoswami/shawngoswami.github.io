@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+.Intro {
+    background-color: green;
+}
+
+#popup {
+    display:none;
+}
